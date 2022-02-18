@@ -1,5 +1,3 @@
-Contact: atwede@gmail.com
-
 # Elk-Server-In-Azure
 ## Automated ELK Stack Deployment
 
